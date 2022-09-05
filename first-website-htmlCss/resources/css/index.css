@@ -15,3 +15,12 @@
   height: 400px;
   width: 400px;
 }
+
+#gritter {
+  color: #4d00ff;
+  font-size: 100px;
+}
+/*a class by definition should be reusable */
+.bold {
+  font-weight: 900;
+}
