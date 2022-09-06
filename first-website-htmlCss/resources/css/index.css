@@ -4,6 +4,30 @@
   padding: 0;
 }
 
+.navbar {
+  background-color: whitesmoke;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 30px;
+}
+
+.navbar li {
+  display: inline;
+  padding: 0 15px;
+}
+
+/*delete underlined from navbar*/
+.navbar a {
+  text-decoration: none;
+  color: black;
+}
+/*every anchor tag with a class of navbar-blue should have the color of blue  */
+.navbar-blue a {
+  color: blue;
+}
+
+/*-----------------section banner*/
 .banner {
   background-color: #4d00ff;
   color: white;
