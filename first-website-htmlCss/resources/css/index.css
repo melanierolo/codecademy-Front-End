@@ -27,11 +27,11 @@
   color: blue;
 }
 
-/*-----------------section banner*/
+/*---------------------------------section banner-------------------------------*/
 .banner {
   background-color: #4d00ff;
   color: white;
-  margin: 75px 0;
+  margin: 75px 0 20px 0;
   text-align: center;
   padding: 50px 0;
 }
@@ -40,11 +40,29 @@
   width: 400px;
 }
 
+/*------------------gritter-section---------------------*/
+.gritter-section {
+  padding: 10px 50px;
+}
 #gritter {
   color: #4d00ff;
   font-size: 100px;
 }
+.avatar {
+  background-image: url("../images/better_than_drake.png");
+  background-size: cover;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
 /*a class by definition should be reusable */
 .bold {
   font-weight: 900;
+}
+
+#greets ul {
+  list-style-type: none;
 }
