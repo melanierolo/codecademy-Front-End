@@ -21,10 +21,6 @@
   text-decoration: none;
   color: black;
 }
-/*every anchor tag with a class of navbar-blue should have the color of blue  */
-.navbar-blue a {
-  color: blue;
-}
 /*---------------------------------section banner-------------------------------*/
 .banner {
   background-image: url("../images/pattern.jpeg");
