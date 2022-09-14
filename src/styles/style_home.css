@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.content {
+  background-color: #ec79b4;
+}
+
+.home_imagen {
+  background-image: url("../assets/gifs/welcome.gif");
+  background-repeat: no-repeat;
+  background-attachment: absolute;
+  background-size: contain;
+  padding: 0% 0% 300px 60%;
+  background-position: center center;
+}
+
+.home_welcome {
+  position: inherit;
+  padding: 40px 10px 40px 10px;
+  width: fit-content;
+  text-align: center;
+  font-family: "Abril Fatface", cursive;
+  font-family: "Libre Baskerville", serif;
+  color: whitesmoke;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.home_title {
+  font-size: 5vw;
+}
+
+.home_comment {
+  font-size: 2vw;
+}
