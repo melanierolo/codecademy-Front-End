@@ -1,6 +1,19 @@
+/* ----------------------font libraries--------------------------*/
 @font-face {
   font-family: "MyParagraphFont";
-  src: url("fonts/CroissantOne-Regular.ttf") format("truetype");
+  src: url("fonts/CroissantOne-Regular.ttf") format("truetype"),
+    url("fonts/Abril_Fatface/AbrilFatface-Regular.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-Black.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-BlackItalic.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-Bold.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-BoldItalic.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-Italic.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-Light.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-LightItalic.ttf") format("truetype"),
+    url("fonts/Merriweather/Merriweather-Regular.ttf") format("truetype"),
+    url("fonts/Work_Sans/WorkSans-Italic-VariableFont_wght.ttf")
+      format("truetype"),
+    url("fonts/Work_Sans/WorkSans-VariableFont_wght.ttf") format("truetype");
 }
 html {
   font-size: 18px;
