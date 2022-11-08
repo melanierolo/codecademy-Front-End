@@ -144,6 +144,7 @@ html {
 .journal p {
   padding-bottom: 2.77rem;
   font-size: 1.5rem;
+  line-height: 1.4; /*the line height */
 }
 
 .journal .first-letter {
@@ -152,6 +153,7 @@ html {
   font-family: "Abril Fatface", serif;
   font-size: 7.44rem;
   color: #10b0d8;
+  line-height: 0.87; /*the line height */
 }
 
 .quote {
@@ -163,6 +165,7 @@ html {
   text-align: center;
   font-size: 3.55rem;
   font-weight: 800;
+  line-height: 1.2; /*the line height */
 }
 
 @media only screen and (max-width: 680px) {
@@ -188,6 +191,7 @@ footer .content {
   flex-grow: 1;
   font-style: italic;
   color: #9b9b9b;
+  line-height: 1.2; /*the line height */
 }
 
 footer p {
