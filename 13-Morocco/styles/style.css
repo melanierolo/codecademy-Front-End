@@ -78,12 +78,14 @@ html {
   font-size: 1.44rem;
   letter-spacing: 2px;
   font-weight: 500; /*banner section subtitle */
+  font-family: "Work Sans", sans-serif;
 }
 
 .banner h1 {
   padding-top: 1.11rem;
   font-size: 11rem;
   font-weight: 900; /*banner section title*/
+  font-family: "Abril Fatface", cursive;
 }
 
 @media only screen and (max-width: 750px) {
@@ -133,6 +135,7 @@ html {
 
 .photo .caption {
   font-style: italic;
+  font-family: "Merriweather", serif;
 }
 
 .photo.first {
@@ -145,6 +148,7 @@ html {
   padding-bottom: 2.77rem;
   font-size: 1.5rem;
   line-height: 1.4; /*the line height */
+  font-family: "Work Sans", sans-serif;
 }
 
 .journal .first-letter {
