@@ -40,6 +40,7 @@ html {
 .header li {
   display: inline;
   padding-right: 2.22rem;
+  font-weight: 700; /*header section - bold*/
 }
 
 .header li a {
